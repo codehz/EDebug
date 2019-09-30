@@ -1,0 +1,26 @@
+{
+  "name": "edebug",
+  "version": "1.0.0",
+  "description": "Debug your site by electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codehz/EDebug.git"
+  },
+  "keywords": [
+    "electron",
+    "development"
+  ],
+  "author": "CodeHz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codehz/EDebug/issues"
+  },
+  "homepage": "https://github.com/codehz/EDebug#readme",
+  "dependencies": {
+    "electron": "*"
+  }
+}
